@@ -40,6 +40,6 @@ const styles = StyleSheet.create({
   container: { flexGrow: 1, alignItems: 'center', justifyContent: 'center', padding: 20, backgroundColor: '#fff' },
   avatar: { width: 120, height: 120, borderRadius: 60, marginBottom: 16 },
   nome: { fontSize: 22, fontWeight: 'bold', marginBottom: 24 },
-  botao: { backgroundColor: '#333', paddingVertical: 14, paddingHorizontal: 24, borderRadius: 8, marginVertical: 8, width: '80%', alignItems: 'center' },
+  botao: { backgroundColor: '#e9f1da', paddingVertical: 14, paddingHorizontal: 24, borderRadius: 8, marginVertical: 8, width: '80%', alignItems: 'center' },
   botaoTexto: { color: '#fff', fontSize: 16, fontWeight: 'bold' },
 });
